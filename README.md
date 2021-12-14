@@ -28,6 +28,8 @@ took the first step in 2021. I graduated from Le Wagon <img width="28px" alt="Le
 <a href= https://github.com/mscpereira?tab=repositories&q=&type=&language=rails&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/rails.svg'> </a>
 <a href= https://github.com/mscpereira?tab=repositories&q=&type=&language=rails&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/bootstrap.svg'> </a>
 <a href= https://github.com/mscpereira?tab=repositories&q=&type=&language=rails&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/figma.svg'> </a>
+<a href= https://github.com/mscpereira?tab=repositories&q=&type=&language=rails&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg'> </a>
+<a href= https://github.com/mscpereira?tab=repositories&q=&type=&language=rails&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg'> </a>
 
 <br>
 
