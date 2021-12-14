@@ -1,9 +1,4 @@
 <h1> Hi, I'm Mário! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
-<p align='center'>
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=mscpereira.mscpereira)
-
-</p>
 
 <h2> About Me </h2>
 
