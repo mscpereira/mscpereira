@@ -11,9 +11,9 @@ took the first step in 2021. I graduated from Le Wagon on December, 2021 and I'm
 
 - 🌱 I’m currently learning React and Ruby on Rails
 
-- 👯 I’m looking to collaborate on Projects, Tech Articles 
+- 👯 I’m looking for job oportunities and to collaborate on new projects and tech articles 
 
-- 💬 Talk to me about Ruby, Rails, JavaScript, React, CSS, Open Source 
+- 💬 Talk to me about Ruby, Rails, JavaScript, React, CSS and Open Source Projects
 
 <br>
 <br>
