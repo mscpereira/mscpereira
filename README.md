@@ -1,8 +1,10 @@
 <h1> Hi, I'm Mário! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 
 <p> I’m a medical doctor with 6 years of experience in the field. However, coding has always been my passion! Making a decision to change career isn’t easy, but I finally
-took the first step in 2021. I graduated from Le Wagon <img width="28px" alt="LeWagon" src="https://dwj199mwkel52.cloudfront.net/assets/lewagon-logo-square-b6124eb974be375884558e4464efce48a9b5664f18422768156364363ecdd1fc.png" /> on December, 2021 and I'm now a Full-stack developer </p>
- 
+took the first step in 2021. I graduated from Le Wagon <img width="28px" alt="LeWagon" src="https://dwj199mwkel52.cloudfront.net/assets/lewagon-logo-square-b6124eb974be375884558e4464efce48a9b5664f18422768156364363ecdd1fc.png" /> on December, 2021 and I'm now a Full-stack developer. </p>
+
+<br>
+
 <img width="55%" align="right" alt="Github" src="https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" />
 
 - 🔭 I’m currently working on Releaf and Urban Forage (personal projects)
