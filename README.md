@@ -4,15 +4,12 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=mscpereira.mscpereira)
 
 </p>
-<div size='20px'> Thank You for taking the time to view my GitHub Profile :smile: 
-</div>
-
 
 
 <h2> About Me </h2>
 
 <p> I’m a medical doctor with 6 years of experience in the field. However, coding has always been my passion! Making a decision to change career isn’t easy, but I finally
-took the first step in 2021. Currently, I'm a Web Developer with knowledge in both Front-end and Back-end development. </p>
+took the first step in 2021. I graduated from Le Wagon on December, 2021 and I'm now a Full-stack developer. </p>
 
 <img width="55%" align="right" alt="Github" src="https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" />
 
