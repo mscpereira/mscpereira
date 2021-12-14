@@ -5,7 +5,6 @@
 
 </p>
 
-
 <h2> About Me </h2>
 
 <p> I’m a medical doctor with 6 years of experience in the field. However, coding has always been my passion! Making a decision to change career isn’t easy, but I finally
