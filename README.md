@@ -1,7 +1,6 @@
 <h1> Hi, I'm Mário! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 
-<p> I’m a medical doctor with 6 years of experience in the field. However, coding has always been my passion! Making a decision to change career isn’t easy, but I finally
-took the first step in 2021. I graduated from Le Wagon <img width="28px" alt="LeWagon" src="https://dwj199mwkel52.cloudfront.net/assets/lewagon-logo-square-b6124eb974be375884558e4464efce48a9b5664f18422768156364363ecdd1fc.png" /> on December, 2021 and I'm now a Full-stack developer (RoR). </p>
+<p>  I'm a Full Stack Web Developer (RoR) who recently graduated from Le Wagon <img width="28px" alt="LeWagon" src="https://dwj199mwkel52.cloudfront.net/assets/lewagon-logo-square-b6124eb974be375884558e4464efce48a9b5664f18422768156364363ecdd1fc.png" /> <img width="28px" alt="RubyOnRails" src="https://img.search.brave.com/x4vHsku82DMw_x2TaShTCOi_E7K_L2c9YS4pd8ICAW0/fit/820/575/ce/1/aHR0cHM6Ly93d3cu/bmljZXBuZy5jb20v/cG5nL2RldGFpbC8y/MTUtMjE1MjUyMl9y/dWJ5LWNsaXBhcnQt/cmFpbC1pY29uLXBu/Zy1ydWJ5LW9uLXJh/aWxzLnBuZw" />. Before I took the step to learn coding and achieve my personal objective of being a web developer, I worked as a doctor for 6 years. It helped to grow a lot as a person and develop soft skills that I consider to be fundamental for every programmer.
 
 <br>
 
