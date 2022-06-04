@@ -1,4 +1,4 @@
-<h1> Hi, I'm Mário! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
+<h1> Hi, I'm Mário! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 20px height= 20px> </h1>
 
 <p>  I'm a Full Stack Web Developer who recently graduated from Le Wagon. Before I took the step to learn coding and achieve my personal objective of being a web developer, I worked as a doctor for 6 years. It helped to grow a lot as a person and develop soft skills that I consider to be fundamental for every programmer.
 
@@ -6,9 +6,9 @@
 
 - 🌱 I’m currently working with C#/ .Net. Programmed in Ruby on Rails in the past.
 
-- 👯 I’m looking for job oportunities and to collaborate on new projects and tech articles 
+- 👯 I’m looking for job oportunities and to collaborate on new projects and tech articles.
 
-- 💬 Talk to me about C#, .Net, Ruby, Rails, JavaScript, React, CSS and Open Source Projects
+- 💬 Talk to me about C#, .Net, Ruby, Rails, JavaScript, CSS and Open Source Projects.
 
 <br>
 <br>
@@ -36,6 +36,7 @@
 <br>
 <a href = 'https://www.github.com/mscpereira'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
 
+<br>
 <br>
 
 <h2> Some Programming Humor for you!
