@@ -1,4 +1,4 @@
-<h1> Hi, I'm Mário! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 20px height= 20px> </h1>
+<h1> Hi, I'm Mário! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = "40px" height= "40px"> </h1>
 
 <p>  I'm a Full Stack Web Developer who recently graduated from Le Wagon. Before I took the step to learn coding and achieve my personal objective of being a web developer, I worked as a doctor for 6 years. It helped to grow a lot as a person and develop soft skills that I consider to be fundamental for every programmer.
 
@@ -30,7 +30,7 @@
 
 <br>
 
-<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
+<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="40px" height="40px"> </h2>
 <a href = 'https://www.linkedin.com/in/mscpereira'> <img width = '20px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a>
 <br>
 <br>
